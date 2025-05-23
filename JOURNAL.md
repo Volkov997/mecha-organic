@@ -1,7 +1,7 @@
 ---
 title: "mecha-organic"
 author: "Volkov"
-description: "boop"
+description: "a small electromechanical pipe organ that will wake me up with music (basically fancy alarm clock)"
 created_at: "2025-05-22"
 ---
 # Journal of project mecha-organic
